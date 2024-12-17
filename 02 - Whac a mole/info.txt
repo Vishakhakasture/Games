@@ -1,0 +1,28 @@
+02 - whac-a-mole
+
+Simple grid-based game using HTML, CSS and JavaScript. 
+The idea of whack-a-mole is simple! The player needs to hit the grid with the mole in as many times as 
+possible until the time runs out. 
+
+what i have used ?
+
+- document.querySelector
+-> Selects the first element in the DOM that matches the specified CSS selector.
+
+- textContent
+-> Gets or sets the text content of an element, excluding any HTML tags.
+
+- forEach
+-> Iterates over arrays, NodeLists, or other iterable objects, and applies a callback function to each item.
+
+- addEventListener
+-> Adds an event listener to an element to listen for specific events (like click, mouseover, etc.).
+
+- setInterval
+-> Executes a function repeatedly at a specified interval (in milliseconds).
+
+- classList.add
+-> Adds one or more CSS classes to an element.
+
+- Arraow function
+-> Arrow functions provide a shorter and cleaner syntax for writing functions introduced in ES6.

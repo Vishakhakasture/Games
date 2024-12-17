@@ -10,11 +10,23 @@ I have kept the styling at a bare miniumum for you to go wild and make it your o
 
 What inbuilt functions used in this game ?
 - for loops
+-> Iterates over arrays, NodeLists, or other iterable objects, and applies a callback function to each item.
+
 - addEventListener
+-> Adds an event listener to an element to listen for specific events (like click, mouseover, etc.).
+
 - setAttribute
+-> Adds or modifies an attribute of an HTML element.
+
 - getAttribute
+-> Retrieves the value of a specified attribute from an HTML element.
+
 - data-name
+-> Custom attributes that store extra data on HTML elements. These attributes start with data-.
+
 - document.querySelector
+-> Selects the first element in the DOM that matches the specified CSS selector.
+
 - createElement
 
 Rules of Memory Game
