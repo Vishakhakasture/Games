@@ -105,6 +105,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   for (let i = 0; i < squares.length; i++) {
+    // it will add an onclick for each square in a grid
     squares[i].onclick = () => {
       //if the square below your current square is taken, you can go ontop of it
       if (
