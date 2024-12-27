@@ -1,0 +1,27 @@
+Snake game
+A JavaScript grid-based game.
+
+The player controls the snake's head, which moves forward continuously and can be steered left, right, up, 
+and down. The goal is to eat apple and grow the snake as long as possible without hitting walls or the snake's 
+own body.
+
+I have used this javascript functions :
+
+- event listeners
+-> Event listeners are used to execute a function when a specific event occurs 
+(e.g., a button click, mouse hover, or a keypress).
+
+- query Selectors
+-> Query selectors are used to select elements from the DOM based on CSS selectors.
+
+- arrow functions
+-> Arrow functions provide a concise way to write functions. They do not have their own this context.
+
+- forEach
+-> forEach is used to iterate over arrays or NodeLists.
+
+- setting time intervals and countdowns
+-> You can use setInterval and setTimeout for time-based tasks.
+
+setTimeout: Executes a function after a specified delay.
+setInterval: Executes a function repeatedly at regular intervals.
