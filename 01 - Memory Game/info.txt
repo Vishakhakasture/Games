@@ -1,4 +1,4 @@
-01 - Memory Game
+1. Memory Game
 A retro grid-based game in JavaScript, HTML and CSS.
 
 
